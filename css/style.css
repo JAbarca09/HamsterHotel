@@ -1,0 +1,361 @@
+/* Nav Bar Section Begins */
+.bgDarkBlue{
+    background: #000324
+}
+
+
+.NavBarHeroImg{
+    background-image: url(/hotelMarkupAssets/Logo.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: relative;
+}
+
+.NavBarTxt{
+    font: normal normal normal 20px/26px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    /* opacity: 1; */
+}
+
+.MarginRight{
+    margin-right: 10%;
+}
+
+.logo{
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+
+.nav-link:hover{
+    background: none !important;
+    border: 2px solid #E5FEFF !important;
+    border-radius: 0 !important;
+    color: #E5FEFF;
+}
+
+.nav-link{
+    padding: 0;
+    color: white !important;
+}
+
+.MoveWords{
+    margin-right: 20px;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+
+/* Nav Bar Section Begins */
+
+/* Second Section Begins */
+.HeroHeaderImg{
+    background-image: url(/hotelMarkupAssets/header.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    display: relative;
+}
+
+.HeroHeaderbg{
+    background-color: #000324;
+}
+
+.MarginTopBlueBg{
+    margin-top: 110px;
+}
+
+.MarginBottomBlueBg{
+    margin-bottom: 10%;
+}
+
+.HeroHeaderbg{
+    width: 60%;
+    height: 40vh;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 0.8;
+    margin-top: 7%;
+
+}
+
+.HeroHeaderTitleTxt{
+    font: normal normal normal 45px/57px Dosis;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.HeroHeaderSubTxt{
+        font: normal normal normal 16px/20px Source Sans Pro;
+        letter-spacing: 0px;
+        color: #E5FEFF;
+        opacity: 1;
+}
+/* Second Section Ends */
+
+/* Third Section begins  */
+.HamsterHomeImg{
+    background-image: url(/hotelMarkupAssets/hamsterhomejpg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    width: 100%;
+}
+
+.HamsterHomeTitleTxt{
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.HamsterHomeSubTxt{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+/* Third Section ends  */
+
+/* Fourth Section begins  */
+.OurRoomHeroImg{
+    background-image: url(/hotelMarkupAssets/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    display: relative;
+}
+
+.OurRoomsTitleTxt{
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.Room1Img{
+    background-image: url(/hotelMarkupAssets/room1.jpg);
+    background-size: cover;
+    background-position: bottom;
+    display: relative;
+    height: 28vh;
+    width: 100%;
+}
+
+.Room3Img{
+    background-image: url(/hotelMarkupAssets/room3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: relative;
+    height: 28vh;
+    width: 100%;
+}
+
+.Room2Img{
+    background-image: url(/hotelMarkupAssets/room2.jpg);
+    background-size: cover;
+    background-position: center;
+    display: relative;
+    height: 28vh;
+    width: 100%;
+}
+
+.CardBorders{
+    border: #000324;
+}
+
+.CardTitle{
+    font: normal normal normal 25px/32px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.CardSubTitle{
+    font: normal normal bold 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.CardPerks{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.ReserveBtn{
+    font: normal normal bold 20px/25px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    border-radius: 0;
+    /* background-color: #004CC7; */
+}
+/* Fourth Section ends */
+
+/* Fifth Section begins */
+.PackagesTitleTxt{
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1
+}
+
+.HamsterWeddingImg{
+    background-image: url(/hotelMarkupAssets/hamsterwedding.jpg);
+    background-position: top;
+    background-size: cover;
+    display: relative;
+    height: 30vh;
+}
+
+.HamsterSpringImg{
+    background-image: url(/hotelMarkupAssets/hamsterspring.jpg);
+    background-position: center;
+    background-size: cover;
+    display: relative;
+    height: 30vh;
+    
+}
+
+.HamsterCheeseImg{
+    background-image: url(/hotelMarkupAssets/hamstercheese.jpg);
+    background-position: top;
+    background-size: cover;
+    display: relative;
+    height: 30vh;
+}
+
+.PackagesTitleTxt{
+    font: normal normal normal 25px/32px Dosis;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.PackagesPriceTxt{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1F51A8;
+    opacity: 1;
+}
+
+.PackagesDescriptionTxt{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+/* Fifth Section ends */
+
+/* 6th Section begins */
+.AmenetiesBgImg{
+    background-image: url(/hotelMarkupAssets/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    display: relative;
+}
+
+.AmenitiesTitleTxt{
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.AmenitiesSubTxt{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.FigImgTxt{
+    font: normal normal bold 15px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+/* 6th Section ends */
+
+/* 7th Section begins */
+.ReserveBox{
+    background-color: #000324;
+    height: 30vh;
+    display: cover;
+    width: 70%;
+}
+
+.ReserveBoxBgColor{
+    background-color: #000324;
+    
+}
+
+.ReserveTitleTxt{
+    font: normal normal normal 35px/44px Dosis;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.HamsterReserveImg{
+    background-image: url(/hotelMarkupAssets/hamsterreserve.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+    width: 70%;
+    display: relative;
+}
+
+.FormSectionTxt{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.col-form-label{
+    padding-bottom: 0;
+    
+}
+
+.form-control{
+    border-radius: 0;
+}
+
+.CheckAvailablityBtnTxt{
+    font: normal normal bold 20px/25px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    border-radius: 0;
+    background-color: #006EDB;
+    border: 1px #000DC7;
+}
+/* 7th Section ends */
+
+
+/* 8th Section begins */
+.FooterBox{
+    background-color: #000324;
+    height: 45vh;
+    width: 100%;
+}
+
+.FooterSubTxt{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+/* 8th Section ends */
